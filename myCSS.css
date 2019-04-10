@@ -19,7 +19,7 @@ a:hover, a:active, a:focus {
 }
 
 .homePage {
-	background: #0A449A;
+	background: #6E6E6E6;
 }
 .container {
 	width: 100%;
@@ -27,7 +27,7 @@ a:hover, a:active, a:focus {
 }
 .header {
 	font-weight: 100px;
-	background: #6E6E6E;
+	background: #0A449A;
 	text-align: center;
 	margin: 0px;
 	float: left;
