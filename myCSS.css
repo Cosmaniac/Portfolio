@@ -57,6 +57,17 @@ a:hover, a:active, a:focus {
 	height: 60px;
 	text-align: center;
 }
+.navH {
+	/*border-radius: 25px 12px 12px 12px;*/
+	background: #931619;
+	color: #9F9494;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 130px;
+	text-align: center;
+}
 .content {
 	/*border-radius: 25px 12px 12px 12px;*/
 	color: #6E4D4D;
