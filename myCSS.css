@@ -76,7 +76,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 	
 }
-#footer {
+.footer {
 	/*border-radius: 25px 12px 12px 12px;*/
 	background: #121212;
 	color: #9F9494;
