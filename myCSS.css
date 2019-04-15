@@ -52,7 +52,7 @@ a:hover, a:active, a:focus {
 	color: #9F9494;
 	margin: 0px;
 	padding: 5;
-	padding-left: 5;
+	padding-left: 5em;
 	float: left;
 	width: 30%;
 	height: 60px;
