@@ -50,8 +50,7 @@ a:hover, a:active, a:focus {
 	/*border-radius: 25px 12px 12px 12px;*/
 	background: #931619;
 	color: #9F9494;
-	margin: 0px;
-	padding-left: 2em;
+	margin: 5px;
 	float: left;
 	width: 30%;
 	height: 60px;
